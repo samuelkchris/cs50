@@ -1,6 +1,6 @@
 name: cs50
 description: "This Flutter plugin is designed to interact with the CS50 device. It provides a set of APIs that allow Flutter applications to communicate with the device and perform various operations."
-version: 0.0.4
+version: 0.0.5
 homepage: "https://github.com/samuelkchris/cs50.git"
 
 environment:
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
