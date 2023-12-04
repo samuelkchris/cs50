@@ -1,6 +1,6 @@
 name: cs50
-description: "A new Flutter plugin project."
-version: 0.0.1
+description: "This Flutter plugin is designed to interact with the CS50 device. It provides a set of APIs that allow Flutter applications to communicate with the device and perform various operations."
+version: 0.0.2
 homepage: "https://github.com/samuelkchris/cs50.git"
 
 environment:

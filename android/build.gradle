@@ -53,7 +53,7 @@ android {
         implementation "androidx.gridlayout:gridlayout:1.0.0"
 
         annotationProcessor 'com.zhy:mpermission-compiler:1.0.0'
-        implementation 'com.zhy:mpermission-api:1.0.0'
+//        implementation 'com.zhy:mpermission-api:1.0.0'
         implementation 'org.greenrobot:greendao:3.2.2'
         //RxAndroid
         implementation 'io.reactivex:rxandroid:1.2.1'
