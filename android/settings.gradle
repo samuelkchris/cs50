@@ -1,1 +1,4 @@
 rootProject.name = 'cs50'
+include ':libs:PayLib'
+include ':libs:zxing'
+include ':android'
